@@ -20,5 +20,6 @@ $ cargo install --path .
 - clear - Clears selected items
 - help  - Print this message or the help of the given subcommand(s)
 
-Options:
-  -h, --help  Print help
+## Options
+
+- -h, --help  Print help
