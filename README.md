@@ -9,12 +9,10 @@ rsnote [options] <COMMANDS>
 ## Install
 
 ```shell
-$ gh repo clone mewfinity06/rsnote
-..
-$ cd rsnote
-..
-$ cargo install --path .
-..
+$ cargo install rsnote
+Updating crates.io index
+...
+Finished `release` profile [optimized] target(s) in 15.66s
 ```
 
 ## Commands
