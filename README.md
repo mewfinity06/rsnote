@@ -1,5 +1,11 @@
 # rsnote - Your goto Todo and Note CLI
 
+## Usage
+
+```shell
+rsnote [options] <COMMANDS>
+```
+
 ## Install
 
 ```shell
@@ -17,9 +23,14 @@ $ cargo install --path .
 - done  - Marks item as Done
 - note  - Adds new item to Notes
 - show  - Print all todos or all notes
+  - See subcommands
 - clear - Clears selected items
+  - See subcommands
 - help  - Print this message or the help of the given subcommand(s)
 
-## Options
+## Subcommands
 
-- -h, --help  Print help
+- todo
+- done
+- note
+- all
