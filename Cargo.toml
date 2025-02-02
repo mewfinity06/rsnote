@@ -2,6 +2,11 @@
 name = "rsnote"
 version = "0.1.0"
 edition = "2021"
+authors = ["Ashton Sickler <sickler.ashton06@gmail.com>"]
+description = "Your goto Todo and Note CLI"
+readme = "README.md"
+repository = "https://github.com/mewfinity06/rsnote"
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.95"
